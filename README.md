@@ -1,4 +1,19 @@
-### Hi there 👋
+## Clinton Ward 👋
+
+## Who Am I ❓
+I'm a burnt out flooring contractor pursuing a new career as a software developer. Wish me luck! 
+
+## 🌱 Currently Learning
+#### Meta Front-End Developer Professional Certificate on Coursera
+- [x] Introduction to Front-End Development
+- [x] Programming with JavaScript
+- [x] Version Control
+- [ ] HTML and CSS in depth
+- [ ] React Basics
+- [ ] Advanced React
+- [ ] Priciples of UX/UI Design
+- [ ] Front-End Developer Capstone
+- [ ] Coding Interview Preparation
 
 <!--
 **clintonward/clintonward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
