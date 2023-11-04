@@ -5,7 +5,7 @@ I'm a burnt out flooring contractor pursuing a new career as a software develope
 
 ### 🌱 Currently Learning
 #### Meta Front-End Developer Professional Certificate
-![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
+[![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/learner/clintonward)
 - [x] Introduction to Front-End Development
 - [x] Programming with JavaScript
 - [x] Version Control
