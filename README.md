@@ -1,7 +1,7 @@
 ## Clinton Ward 👋
 
 ### Who Am I ❓
-I'm a burnt out flooring contractor pursuing a new career as a software developer. Wish me luck! 
+I'm a burnt out flooring contractor pursuing a new career as a Front-End Developer. Wish me luck! 
 
 ### 🌱 Currently Learning
 #### Meta Front-End Developer Professional Certificate
