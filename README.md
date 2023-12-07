@@ -10,7 +10,7 @@ I'm a flooring contractor pursuing a new career as a Front-End Developer. Wish m
 - [x] [Programming With JavaScript](https://coursera.org/share/ce9fa38b4b218b765d33342502596653)
 - [x] [Version Control](https://coursera.org/share/cdf3356b2da4509c62cd33fae1a4295f)
 - [x] [HTML and CSS in depth](https://coursera.org/share/fb3635c3bc62aa7b1c13019e1a5d1484)
-- [ ] React Basics
+- [x] [React Basics](https://coursera.org/share/7117cac7ef809c7a2141e9e9d532837d)
 - [ ] Advanced React
 - [ ] Priciples of UX/UI Design
 - [ ] Front-End Developer Capstone
